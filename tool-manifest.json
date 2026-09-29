@@ -1,0 +1,13 @@
+{
+  "slug": "bostadsbidrag-kalkylator-se",
+  "type": "calculator_or_tool",
+  "country": "SE",
+  "category": "benefits",
+  "official_sources": [
+    "https://www.forsakringskassan.se/",
+    "https://www.skatteverket.se/"
+  ],
+  "claim_state": "method_unverified",
+  "phoenix_ready": false,
+  "limitations": "Swedish housing allowance depends on income, household, rent and year."
+}
